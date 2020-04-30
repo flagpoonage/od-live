@@ -1,0 +1,14 @@
+{
+  "name": "extra",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "James Hay <pokinoice@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^16.9.34",
+    "@types/react-dom": "^16.9.7",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "typescript": "^3.8.3"
+  }
+}

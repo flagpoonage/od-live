@@ -1,0 +1,1 @@
+export function expensiveOperation <T>(a: T): T { return a };
